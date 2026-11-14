@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="photo.jpg" width="100%" alt="Isfahan, Si-o-se-pol">
-
 ## IRKINGSTAR
 
 **builder of FoxyVPN — an unofficial Mozilla VPN client**
